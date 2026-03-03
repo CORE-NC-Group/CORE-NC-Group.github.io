@@ -1,0 +1,394 @@
+[
+  {
+    "govt_name": "Harnett",
+    "govt_type": "county",
+    "govt_longname": "Harnett County",
+    "as_auth_date": "2023-06-19",
+    "as_auth_id": "2023-21",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Harnett_county_Spending_Authorization_2023-06-19.pdf"
+  },
+  {
+    "govt_name": "Cumberland",
+    "govt_type": "county",
+    "govt_longname": "Cumberland County",
+    "as_auth_date": "2023-11-06",
+    "as_auth_id": "B240605",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Cumberland_county_Spending_Authorization_2023-11-06.pdf"
+  },
+  {
+    "govt_name": "New Hanover",
+    "govt_type": "county",
+    "govt_longname": "New Hanover County",
+    "as_auth_date": "2023-12-11",
+    "as_auth_id": "A RESOLUTION BY THE COUNTY OF NEW HANOVER TO DIRECT THE EXPENDITURE OF OPIOID SETTLEMENT FUNDS",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/New%20Hanover_county_Spending_Authorization_2023-12-11.pdf"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "govt_longname": "Cabarrus County",
+    "as_auth_date": "2024-01-16",
+    "as_auth_id": "2024-02",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Cabarrus_county_Spending_Authorization_2024-01-16.pdf"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "govt_longname": "Wake County",
+    "as_auth_date": "2024-04-15",
+    "as_auth_id": "#16-5563",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wake_county_Spending_Authorization_2024-04-15.pdf"
+  },
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "govt_longname": "Lee County",
+    "as_auth_date": "2024-02-19",
+    "as_auth_id": "#27",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Lee_county_Spending_Authorization_2024-02-19.pdf"
+  },
+  {
+    "govt_name": "Surry",
+    "govt_type": "county",
+    "govt_longname": "Surry County",
+    "as_auth_date": "2023-07-17",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Surry_county_Spending_Authorization_2023-07-17.pdf"
+  },
+  {
+    "govt_name": "Anson",
+    "govt_type": "county",
+    "govt_longname": "Anson County",
+    "as_auth_date": "2022-07-01",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Anson_county_Spending_Authorization_2022-07-01.pdf"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "govt_longname": "Gaston County",
+    "as_auth_date": "2024-05-28",
+    "as_auth_id": "#2024-207",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Gaston_county_Spending_Authorization_2024-05-28.pdf"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "govt_longname": "Wayne County",
+    "as_auth_date": "2024-06-04",
+    "as_auth_id": "Resolution #2024-15",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wayne_county_Spending_Authorization_2024-06-04.pdf"
+  },
+  {
+    "govt_name": "Catawba",
+    "govt_type": "county",
+    "govt_longname": "Catawba County",
+    "as_auth_date": "2024-06-03",
+    "as_auth_id": "#2024-14",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Catawba_county_Spending_Authorization_2024-06-03.pdf"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "govt_longname": "Richmond County",
+    "as_auth_date": "2024-05-07",
+    "as_auth_id": "#07",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Richmond_county_Spending_Authorization_2024-05-07.pdf"
+  },
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "govt_longname": "Lee County",
+    "as_auth_date": "2024-06-17",
+    "as_auth_id": "#22",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Lee_county_Spending_Authorization_2024-06-17.pdf"
+  },
+  {
+    "govt_name": "Caswell",
+    "govt_type": "county",
+    "govt_longname": "Caswell County",
+    "as_auth_date": "2024-06-17",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Caswell_county_Spending_Authorization_2024-06-17.pdf"
+  },
+  {
+    "govt_name": "Randolph",
+    "govt_type": "county",
+    "govt_longname": "Randolph County",
+    "as_auth_date": "2023-07-10",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Randolph_county_Spending_Authorization_2023-07-10.pdf"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "govt_longname": "Wayne County",
+    "as_auth_date": "2024-07-16",
+    "as_auth_id": "#2024-15",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wayne_county_Spending_Authorization_2024-07-16.pdf"
+  },
+  {
+    "govt_name": "Granville",
+    "govt_type": "county",
+    "govt_longname": "Granville County",
+    "as_auth_date": "2024-07-01",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Granville_county_Spending_Authorization_2024-07-01.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2024-08-06",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2024-08-06.pdf"
+  },
+  {
+    "govt_name": "Robeson",
+    "govt_type": "county",
+    "govt_longname": "Robeson County",
+    "as_auth_date": "2024-08-05",
+    "as_auth_id": "#080524-04",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Robeson_county_Spending_Authorization_2024-08-05.pdf"
+  },
+  {
+    "govt_name": "New Hanover",
+    "govt_type": "county",
+    "govt_longname": "New Hanover County",
+    "as_auth_date": "2024-07-22",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/New%20Hanover_county_Spending_Authorization_2024-07-22.pdf"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "govt_longname": "Gaston County",
+    "as_auth_date": "2024-09-19",
+    "as_auth_id": "#2024-321",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Gaston_county_Spending_Authorization_2024-09-19.pdf"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "govt_longname": "Ashe County",
+    "as_auth_date": "2024-08-05",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Ashe_county_Spending_Authorization_2024-08-05.pdf"
+  },
+  {
+    "govt_name": "Granville",
+    "govt_type": "county",
+    "govt_longname": "Granville County",
+    "as_auth_date": "2025-02-03",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Granville_county_Spending_Authorization_2025-02-03.pdf"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "govt_longname": "Wake County",
+    "as_auth_date": "2025-01-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wake_county_Spending_Authorization_2025-01-21.pdf"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "govt_longname": "Alleghany County",
+    "as_auth_date": "2024-10-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Alleghany_county_Spending_Authorization_2024-10-21.pdf"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "govt_longname": "Cabarrus County",
+    "as_auth_date": "2024-11-18",
+    "as_auth_id": "#2024-46",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Cabarrus_county_Spending_Authorization_2024-11-18.pdf"
+  },
+  {
+    "govt_name": "Mecklenburg",
+    "govt_type": "county",
+    "govt_longname": "Mecklenburg County",
+    "as_auth_date": "2024-12-03",
+    "as_auth_id": "Ordinance Book 53 - Document 87",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Mecklenburg_county_Spending_Authorization_2024-12-03.pdf"
+  },
+  {
+    "govt_name": "New Hanover",
+    "govt_type": "county",
+    "govt_longname": "New Hanover County",
+    "as_auth_date": "2025-06-02",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/New%20Hanover_county_Spending_Authorization_2025-06-02.pdf"
+  },
+  {
+    "govt_name": "Rowan",
+    "govt_type": "county",
+    "govt_longname": "Rowan County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Rowan_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "govt_longname": "Wake County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wake_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Duplin",
+    "govt_type": "county",
+    "govt_longname": "Duplin County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "Resolution 2025-10",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Duplin_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Onslow",
+    "govt_type": "county",
+    "govt_longname": "Onslow County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "#25-009",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Onslow_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Durham",
+    "govt_type": "county",
+    "govt_longname": "Durham County",
+    "as_auth_date": "2025-06-09",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Durham_county_Spending_Authorization_2025-06-09.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2025-07-01",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2025-07-01.pdf"
+  },
+  {
+    "govt_name": "Catawba",
+    "govt_type": "county",
+    "govt_longname": "Catawba County",
+    "as_auth_date": "2025-06-02",
+    "as_auth_id": "#2025-21",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Catawba_county_Spending_Authorization_2025-06-02.pdf"
+  },
+  {
+    "govt_name": "Caswell",
+    "govt_type": "county",
+    "govt_longname": "Caswell County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "RES-2025-01-OpioidFunds",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Caswell_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Catawba",
+    "govt_type": "county",
+    "govt_longname": "Catawba County",
+    "as_auth_date": "2025-08-18",
+    "as_auth_id": "#2025-31",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Catawba_county_Spending_Authorization_2025-08-18.pdf"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "govt_longname": "Richmond County",
+    "as_auth_date": "2025-08-05",
+    "as_auth_id": "#26-10",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Richmond_county_Spending_Authorization_2025-08-05.pdf"
+  },
+  {
+    "govt_name": "Rowan",
+    "govt_type": "county",
+    "govt_longname": "Rowan County",
+    "as_auth_date": "2024-09-16",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Rowan_county_Spending_Authorization_2024-09-16.pdf"
+  },
+  {
+    "govt_name": "Rowan",
+    "govt_type": "county",
+    "govt_longname": "Rowan County",
+    "as_auth_date": "2025-08-18",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Rowan_county_Spending_Authorization_2025-08-18.pdf"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "govt_longname": "Wayne County",
+    "as_auth_date": "2025-10-07",
+    "as_auth_id": "#2025-22",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wayne_county_Spending_Authorization_2025-10-07.pdf"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "govt_longname": "Alleghany County",
+    "as_auth_date": "2025-10-06",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Alleghany_county_Spending_Authorization_2025-10-06.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2025-10-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2025-10-21.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2025-10-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2025-10-21.pdf"
+  },
+  {
+    "govt_name": "Granville",
+    "govt_type": "county",
+    "govt_longname": "Granville County",
+    "as_auth_date": "2025-10-20",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Granville_county_Spending_Authorization_2025-10-20.pdf"
+  },
+  {
+    "govt_name": "Edgecombe",
+    "govt_type": "county",
+    "govt_longname": "Edgecombe County",
+    "as_auth_date": "2025-12-01",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Edgecombe_county_Spending_Authorization_2025-12-01.pdf"
+  },
+  {
+    "govt_name": "Cumberland",
+    "govt_type": "county",
+    "govt_longname": "Cumberland County",
+    "as_auth_date": "2024-11-18",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Cumberland_county_Spending_Authorization_2024-11-18.pdf"
+  },
+  {
+    "govt_name": "Duplin",
+    "govt_type": "county",
+    "govt_longname": "Duplin County",
+    "as_auth_date": "2025-01-06",
+    "as_auth_id": "#2025-Amend Resolution 2024-12 to extend the end date to 01/06/2025",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Duplin_county_Spending_Authorization_2025-01-06.pdf"
+  },
+  {
+    "govt_name": "Duplin",
+    "govt_type": "county",
+    "govt_longname": "Duplin County",
+    "as_auth_date": "2025-01-06",
+    "as_auth_id": "#2025-3",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Duplin_county_Spending_Authorization_2025-01-06.pdf"
+  }
+]

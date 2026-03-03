@@ -1,0 +1,242 @@
+[
+  {
+    "govt_name": "Dare",
+    "govt_type": "county",
+    "govt_longname": "Dare County",
+    "as_auth_date": "2023-03-06",
+    "as_auth_id": "143025-460100-56011",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Dare_county_Spending_Authorization_2023-03-06.pdf"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "county",
+    "govt_longname": "Henderson County",
+    "as_auth_date": "2023-06-05",
+    "as_auth_id": "Enactment 2023-83",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Henderson_county_Spending_Authorization_2023-06-05.pdf"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "county",
+    "govt_longname": "Henderson County",
+    "as_auth_date": "2023-08-16",
+    "as_auth_id": "#2022.119",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Henderson_county_Spending_Authorization_2023-08-16.pdf"
+  },
+  {
+    "govt_name": "Dare",
+    "govt_type": "county",
+    "govt_longname": "Dare County",
+    "as_auth_date": "2023-09-06",
+    "as_auth_id": "23-09-45",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Dare_county_Spending_Authorization_2023-09-06.pdf"
+  },
+  {
+    "govt_name": "Davie",
+    "govt_type": "county",
+    "govt_longname": "Davie County",
+    "as_auth_date": "2023-10-02",
+    "as_auth_id": "#1",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Davie_county_Spending_Authorization_2023-10-02.pdf"
+  },
+  {
+    "govt_name": "Greensboro",
+    "govt_type": "city",
+    "govt_longname": "City of Greensboro",
+    "as_auth_date": "2022-10-18",
+    "as_auth_id": "Resolution 356-22;  ID 2022-1039",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Greensboro_city_Spending_Authorization_2022-10-18.pdf"
+  },
+  {
+    "govt_name": "Cumberland",
+    "govt_type": "county",
+    "govt_longname": "Cumberland County",
+    "as_auth_date": "2023-11-06",
+    "as_auth_id": "B240605",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Cumberland_county_Spending_Authorization_2023-11-06.pdf"
+  },
+  {
+    "govt_name": "Warren",
+    "govt_type": "county",
+    "govt_longname": "Warren County",
+    "as_auth_date": "2023-11-06",
+    "as_auth_id": "none",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Warren_county_Spending_Authorization_2023-11-06.pdf"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "county",
+    "govt_longname": "Henderson County",
+    "as_auth_date": "2024-01-17",
+    "as_auth_id": "#2024.014",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Henderson_county_Spending_Authorization_2024-01-17.pdf"
+  },
+  {
+    "govt_name": "Franklin",
+    "govt_type": "county",
+    "govt_longname": "Franklin County",
+    "as_auth_date": "2024-03-04",
+    "as_auth_id": "Amended Resolution to Direct the Expenditure of Opioid Settlement Funds",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Franklin_county_Spending_Authorization_2024-03-04.pdf"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "govt_longname": "Wake County",
+    "as_auth_date": "2024-04-15",
+    "as_auth_id": "#16-5563",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wake_county_Spending_Authorization_2024-04-15.pdf"
+  },
+  {
+    "govt_name": "Fayetteville",
+    "govt_type": "city",
+    "govt_longname": "City of Fayetteville",
+    "as_auth_date": "2023-08-28",
+    "as_auth_id": "#R2023-033",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Fayetteville_city_Spending_Authorization_2023-08-28.pdf"
+  },
+  {
+    "govt_name": "Winston-Salem",
+    "govt_type": "city",
+    "govt_longname": "City of Winston-Salem",
+    "as_auth_date": "2023-10-16",
+    "as_auth_id": "#23-0387",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Winston-Salem_city_Spending_Authorization_2023-10-16.pdf"
+  },
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "govt_longname": "Lee County",
+    "as_auth_date": "2024-06-17",
+    "as_auth_id": "#22",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Lee_county_Spending_Authorization_2024-06-17.pdf"
+  },
+  {
+    "govt_name": "Winston-Salem",
+    "govt_type": "city",
+    "govt_longname": "City of Winston-Salem",
+    "as_auth_date": "2024-06-17",
+    "as_auth_id": "#24-0367",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Winston-Salem_city_Spending_Authorization_2024-06-17.pdf"
+  },
+  {
+    "govt_name": "Franklin",
+    "govt_type": "county",
+    "govt_longname": "Franklin County",
+    "as_auth_date": "2024-10-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Franklin_county_Spending_Authorization_2024-10-21.pdf"
+  },
+  {
+    "govt_name": "Davie",
+    "govt_type": "county",
+    "govt_longname": "Davie County",
+    "as_auth_date": "2024-12-02",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Davie_county_Spending_Authorization_2024-12-02.pdf"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "govt_longname": "Wake County",
+    "as_auth_date": "2025-01-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wake_county_Spending_Authorization_2025-01-21.pdf"
+  },
+  {
+    "govt_name": "Franklin",
+    "govt_type": "county",
+    "govt_longname": "Franklin County",
+    "as_auth_date": "2025-01-06",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Franklin_county_Spending_Authorization_2025-01-06.pdf"
+  },
+  {
+    "govt_name": "Greensboro",
+    "govt_type": "city",
+    "govt_longname": "City of Greensboro",
+    "as_auth_date": "2025-03-04",
+    "as_auth_id": "#045-25",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Greensboro_city_Spending_Authorization_2025-03-04.pdf"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "govt_longname": "Wake County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wake_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "govt_longname": "McDowell County",
+    "as_auth_date": "2025-05-19",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/McDowell_county_Spending_Authorization_2025-05-19.pdf"
+  },
+  {
+    "govt_name": "Greensboro",
+    "govt_type": "city",
+    "govt_longname": "City of Greensboro",
+    "as_auth_date": "2025-06-17",
+    "as_auth_id": "#166-25",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Greensboro_city_Spending_Authorization_2025-06-17.pdf"
+  },
+  {
+    "govt_name": "Winston-Salem",
+    "govt_type": "city",
+    "govt_longname": "City of Winston-Salem",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "Resolution #25-0254",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Winston-Salem_city_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Fayetteville",
+    "govt_type": "city",
+    "govt_longname": "City of Fayetteville",
+    "as_auth_date": "2025-06-23",
+    "as_auth_id": "R2025-024",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Fayetteville_city_Spending_Authorization_2025-06-23.pdf"
+  },
+  {
+    "govt_name": "Franklin",
+    "govt_type": "county",
+    "govt_longname": "Franklin County",
+    "as_auth_date": "2025-09-08",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Franklin_county_Spending_Authorization_2025-09-08.pdf"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "govt_longname": "Richmond County",
+    "as_auth_date": "2025-08-05",
+    "as_auth_id": "#26-08",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Richmond_county_Spending_Authorization_2025-08-05.pdf"
+  },
+  {
+    "govt_name": "Yadkin",
+    "govt_type": "county",
+    "govt_longname": "Yadkin County",
+    "as_auth_date": "2025-10-20",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Yadkin_county_Spending_Authorization_2025-10-20.pdf"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "govt_longname": "Avery County",
+    "as_auth_date": "2025-08-19",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Avery_county_Spending_Authorization_2025-08-19.pdf"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "govt_longname": "Orange County",
+    "as_auth_date": "2025-06-17",
+    "as_auth_id": "RES-2025-034",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Orange_county_Spending_Authorization_2025-06-17.pdf"
+  }
+]

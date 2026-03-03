@@ -1,0 +1,90 @@
+[
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2023-09-04",
+    "as_auth_id": "13-20230905-R11a",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2023-09-04.pdf"
+  },
+  {
+    "govt_name": "Forsyth",
+    "govt_type": "county",
+    "govt_longname": "Forsyth County",
+    "as_auth_date": "2023-07-27",
+    "as_auth_id": "Resolution 2023-832 and Ordinance 2023-466",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Forsyth_county_Spending_Authorization_2023-07-27.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2023-12-04",
+    "as_auth_id": "22-20231204-R17",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2023-12-04.pdf"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "govt_longname": "Union County",
+    "as_auth_date": "2024-03-04",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Union_county_Spending_Authorization_2024-03-04.pdf"
+  },
+  {
+    "govt_name": "Forsyth",
+    "govt_type": "county",
+    "govt_longname": "Forsyth County",
+    "as_auth_date": "2024-10-03",
+    "as_auth_id": "#2024-1372",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Forsyth_county_Spending_Authorization_2024-10-03.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2024-11-04",
+    "as_auth_id": "#11-20241104-R16",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2024-11-04.pdf"
+  },
+  {
+    "govt_name": "Beaufort",
+    "govt_type": "county",
+    "govt_longname": "Beaufort County",
+    "as_auth_date": "2025-06-03",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Beaufort_county_Spending_Authorization_2025-06-03.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2024-06-17",
+    "as_auth_id": "#6a-20240617-R13",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2024-06-17.pdf"
+  },
+  {
+    "govt_name": "Beaufort",
+    "govt_type": "county",
+    "govt_longname": "Beaufort County",
+    "as_auth_date": "2023-02-06",
+    "as_auth_id": "#02-6-23",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Beaufort_county_Spending_Authorization_2023-02-06.pdf"
+  },
+  {
+    "govt_name": "Bladen",
+    "govt_type": "county",
+    "govt_longname": "Bladen County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "#25.09",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Bladen_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2025-12-01",
+    "as_auth_id": "#23-2025124-R14",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2025-12-01.pdf"
+  }
+]

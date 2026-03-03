@@ -1,0 +1,114 @@
+[
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2023-09-04",
+    "as_auth_id": "13-20230905-R11a",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2023-09-04.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2023-11-21",
+    "as_auth_id": "A RESOLUTION BY THE COUNTY OF WILKES TO DIRECT THE EXPENDITURE OF OPIOID SETTLEMENT FUNDS",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2023-11-21.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2023-12-04",
+    "as_auth_id": "22-20231204-R17",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2023-12-04.pdf"
+  },
+  {
+    "govt_name": "Lincoln",
+    "govt_type": "county",
+    "govt_longname": "Lincoln County",
+    "as_auth_date": "2023-12-18",
+    "as_auth_id": "Amended Resolution",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Lincoln_county_Spending_Authorization_2023-12-18.pdf"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "govt_longname": "Union County",
+    "as_auth_date": "2024-03-04",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Union_county_Spending_Authorization_2024-03-04.pdf"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "county",
+    "govt_longname": "Henderson County",
+    "as_auth_date": "2024-06-19",
+    "as_auth_id": "#2024.078",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Henderson_county_Spending_Authorization_2024-06-19.pdf"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "county",
+    "govt_longname": "Henderson County",
+    "as_auth_date": "2023-12-04",
+    "as_auth_id": "#2023.151",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Henderson_county_Spending_Authorization_2023-12-04.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2024-11-04",
+    "as_auth_id": "#11-20241104-R16",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2024-11-04.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2024-06-17",
+    "as_auth_id": "#6a-20240617-R13",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2024-06-17.pdf"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "county",
+    "govt_longname": "Henderson County",
+    "as_auth_date": "2025-06-02",
+    "as_auth_id": "#2025.077",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Henderson_county_Spending_Authorization_2025-06-02.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2025-10-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2025-10-21.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2025-12-01",
+    "as_auth_id": "#23-2025124-R14",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2025-12-01.pdf"
+  },
+  {
+    "govt_name": "Cumberland",
+    "govt_type": "county",
+    "govt_longname": "Cumberland County",
+    "as_auth_date": "2025-09-15",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Cumberland_county_Spending_Authorization_2025-09-15.pdf"
+  },
+  {
+    "govt_name": "Cleveland",
+    "govt_type": "county",
+    "govt_longname": "Cleveland County",
+    "as_auth_date": "2025-06-03",
+    "as_auth_id": "#08-2025",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Cleveland_county_Spending_Authorization_2025-06-03.pdf"
+  }
+]

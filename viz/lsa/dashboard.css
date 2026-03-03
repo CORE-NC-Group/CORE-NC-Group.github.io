@@ -1,0 +1,20 @@
+div.link-row {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+div.link-row > span {
+  text-align: right;
+  font-size: smaller;
+  padding: 0.5ex 1rem;
+}
+div.link-row img {
+  max-height: 80px;
+  max-width: 80px;
+}
+
+div#interactive div#inter-sub table {
+  font-size: small
+}
+div#inter-sub table td.govt { white-space: pre; }
+div#inter-sub table td.date { text-align: right; }

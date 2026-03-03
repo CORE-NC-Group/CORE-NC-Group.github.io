@@ -1,0 +1,122 @@
+[
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2023-09-04",
+    "as_auth_id": "13-20230905-R11a",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2023-09-04.pdf"
+  },
+  {
+    "govt_name": "Forsyth",
+    "govt_type": "county",
+    "govt_longname": "Forsyth County",
+    "as_auth_date": "2023-07-27",
+    "as_auth_id": "Resolution 2023-832 and Ordinance 2023-466",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Forsyth_county_Spending_Authorization_2023-07-27.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2023-12-04",
+    "as_auth_id": "22-20231204-R17",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2023-12-04.pdf"
+  },
+  {
+    "govt_name": "New Hanover",
+    "govt_type": "county",
+    "govt_longname": "New Hanover County",
+    "as_auth_date": "2023-12-11",
+    "as_auth_id": "A RESOLUTION BY THE COUNTY OF NEW HANOVER TO DIRECT THE EXPENDITURE OF OPIOID SETTLEMENT FUNDS",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/New%20Hanover_county_Spending_Authorization_2023-12-11.pdf"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "govt_longname": "Union County",
+    "as_auth_date": "2024-03-04",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Union_county_Spending_Authorization_2024-03-04.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2024-08-06",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2024-08-06.pdf"
+  },
+  {
+    "govt_name": "Guilford",
+    "govt_type": "county",
+    "govt_longname": "Guilford County",
+    "as_auth_date": "2024-07-18",
+    "as_auth_id": "#2024-331",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Guilford_county_Spending_Authorization_2024-07-18.pdf"
+  },
+  {
+    "govt_name": "New Hanover",
+    "govt_type": "county",
+    "govt_longname": "New Hanover County",
+    "as_auth_date": "2024-07-22",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/New%20Hanover_county_Spending_Authorization_2024-07-22.pdf"
+  },
+  {
+    "govt_name": "Forsyth",
+    "govt_type": "county",
+    "govt_longname": "Forsyth County",
+    "as_auth_date": "2024-10-03",
+    "as_auth_id": "#2024-1372",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Forsyth_county_Spending_Authorization_2024-10-03.pdf"
+  },
+  {
+    "govt_name": "Bladen",
+    "govt_type": "county",
+    "govt_longname": "Bladen County",
+    "as_auth_date": "2024-09-16",
+    "as_auth_id": "#24.15",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Bladen_county_Spending_Authorization_2024-09-16.pdf"
+  },
+  {
+    "govt_name": "New Hanover",
+    "govt_type": "county",
+    "govt_longname": "New Hanover County",
+    "as_auth_date": "2025-06-02",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/New%20Hanover_county_Spending_Authorization_2025-06-02.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2024-06-17",
+    "as_auth_id": "#6a-20240617-R13",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2024-06-17.pdf"
+  },
+  {
+    "govt_name": "Bladen",
+    "govt_type": "county",
+    "govt_longname": "Bladen County",
+    "as_auth_date": "2025-06-16",
+    "as_auth_id": "#25.09",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Bladen_county_Spending_Authorization_2025-06-16.pdf"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "govt_longname": "Wilkes County",
+    "as_auth_date": "2025-10-21",
+    "as_auth_id": "N/A",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Wilkes_county_Spending_Authorization_2025-10-21.pdf"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "govt_longname": "Columbus County",
+    "as_auth_date": "2025-12-01",
+    "as_auth_id": "#23-2025124-R14",
+    "doc_path": "https://p3-repo-dept-core-nc.apps.cloudapps.unc.edu/uploads/Columbus_county_Spending_Authorization_2025-12-01.pdf"
+  }
+]

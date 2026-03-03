@@ -6300,10 +6300,6 @@ function str_fetch(req, handle2) {
     return;
   });
 }
-// build/dev/javascript/plinth/console_ffi.mjs
-function log2(value2) {
-  console.log(value2);
-}
 // build/dev/javascript/gleam_regexp/gleam_regexp_ffi.mjs
 function compile(pattern, options) {
   try {
@@ -6313,9 +6309,9 @@ function compile(pattern, options) {
     if (options.multi_line)
       flags += "m";
     return new Ok(new RegExp(pattern, flags));
-  } catch (error2) {
-    const number = (error2.columnNumber || 0) | 0;
-    return new Error(new CompileError(error2.message, number));
+  } catch (error) {
+    const number = (error.columnNumber || 0) | 0;
+    return new Error(new CompileError(error.message, number));
   }
 }
 function split3(regex, string5) {
@@ -6352,9 +6348,9 @@ class Match extends CustomType {
   }
 }
 class CompileError extends CustomType {
-  constructor(error2, byte_index) {
+  constructor(error, byte_index) {
     super();
-    this.error = error2;
+    this.error = error;
     this.byte_index = byte_index;
   }
 }
@@ -6758,9 +6754,9 @@ function parse_offset(offset) {
         }
       }
     })(), (_use0) => {
-      let sign2;
+      let sign;
       let offset$1;
-      sign2 = _use0[0];
+      sign = _use0[0];
       offset$1 = _use0[1];
       let $1 = split2(offset$1, ":");
       if ($1 instanceof Empty) {
@@ -6772,15 +6768,15 @@ function parse_offset(offset) {
           let $3 = string_length(offset$2);
           if ($3 === 1) {
             return try$(parse_int(offset$2), (hour) => {
-              return new Ok(sign2 * hour * 3600);
+              return new Ok(sign * hour * 3600);
             });
           } else if ($3 === 2) {
             return try$(parse_int(offset$2), (number) => {
               let $4 = number < 14;
               if ($4) {
-                return new Ok(sign2 * number * 3600);
+                return new Ok(sign * number * 3600);
               } else {
-                return new Ok(sign2 * (globalThis.Math.trunc(number / 10) * 60 + number % 10) * 60);
+                return new Ok(sign * (globalThis.Math.trunc(number / 10) * 60 + number % 10) * 60);
               }
             });
           } else if ($3 === 3) {
@@ -6800,7 +6796,7 @@ function parse_offset(offset) {
             let minute_str = slice(offset$2, 1, 2);
             return try$(parse_int(hour_str), (hour) => {
               return try$(parse_int(minute_str), (minute) => {
-                return new Ok(sign2 * (hour * 60 + minute) * 60);
+                return new Ok(sign * (hour * 60 + minute) * 60);
               });
             });
           } else if ($3 === 4) {
@@ -6808,7 +6804,7 @@ function parse_offset(offset) {
             let minute_str = slice(offset$2, 2, 2);
             return try$(parse_int(hour_str), (hour) => {
               return try$(parse_int(minute_str), (minute) => {
-                return new Ok(sign2 * (hour * 60 + minute) * 60);
+                return new Ok(sign * (hour * 60 + minute) * 60);
               });
             });
           } else {
@@ -6821,7 +6817,7 @@ function parse_offset(offset) {
             let minute_str = $2.head;
             return try$(parse_int(hour_str), (hour) => {
               return try$(parse_int(minute_str), (minute) => {
-                return new Ok(sign2 * (hour * 60 + minute) * 60);
+                return new Ok(sign * (hour * 60 + minute) * 60);
               });
             });
           } else {
@@ -6879,8 +6875,8 @@ function generate_offset(offset) {
     } else {
       _block = "+";
     }
-    let sign2 = _block;
-    return new Ok(sign2 + pad2(globalThis.Math.trunc(abs_seconds / 3600)) + ":" + pad2(globalThis.Math.trunc(abs_seconds % 3600 / 60)));
+    let sign = _block;
+    return new Ok(sign + pad2(globalThis.Math.trunc(abs_seconds / 3600)) + ":" + pad2(globalThis.Math.trunc(abs_seconds % 3600 / 60)));
   });
 }
 function to_parts(value2) {
@@ -8134,6 +8130,28 @@ function get_sgry(id2) {
   });
 }
 
+// build/dev/javascript/lsaui/ffi_types.mjs
+class Origin extends CustomType {
+  constructor(scheme, host, port, path) {
+    super();
+    this.scheme = scheme;
+    this.host = host;
+    this.port = port;
+    this.path = path;
+  }
+}
+var Origin$Origin = (scheme, host, port, path) => new Origin(scheme, host, port, path);
+
+// build/dev/javascript/lsaui/browser_shim.js
+function console_log(thing) {
+  console.log(thing);
+}
+function get_origin() {
+  const orig = globalThis.location;
+  const origin = Origin$Origin(orig.protocol, orig.hostname, orig.port, orig.pathname);
+  return origin;
+}
+
 // build/dev/javascript/lsaui/util.mjs
 function first_key(map9) {
   let max_n = size(map9);
@@ -8224,11 +8242,32 @@ class ServerReturnedError extends CustomType {
 function dump(thing, tag) {
   let _pipe = toList([tag, ": ", inspect2(thing)]);
   let _pipe$1 = concat2(_pipe);
-  log2(_pipe$1);
+  console_log(_pipe$1);
   return thing;
 }
-function fresh_model(base) {
-  return new Model(base, "1", make(), "", make(), toList([]));
+function fresh_model() {
+  let $ = get_origin();
+  let scheme;
+  let host;
+  let port;
+  let path;
+  scheme = $.scheme;
+  host = $.host;
+  port = $.port;
+  path = $.path;
+  let _block;
+  let $1 = ends_with(path, "/");
+  if ($1) {
+    _block = path;
+  } else {
+    _block = path + "/";
+  }
+  let path$1 = _block;
+  let _block$1;
+  let _pipe = new Uri(new Some(scheme), new None, new Some(host), new Some(port), path$1, new None, new None);
+  _block$1 = dump(_pipe, "BASE_URI");
+  let data_url_base = _block$1;
+  return new Model(data_url_base, "1", make(), "", make(), toList([]));
 }
 function with_req(req_id, req_desc, mod) {
   let new_requests = insert(mod.requests, req_id, req_desc);
@@ -8239,14 +8278,7 @@ function without_req(req_id, mod) {
   return new Model(mod.data_url_base, mod.cur_sgry, mod.lsa_list, mod.map_data, new_requests, mod.errors);
 }
 function with_subpath(subpath, mod) {
-  let _block;
-  let $ = ends_with(mod.data_url_base.path, "/");
-  if ($) {
-    _block = append(mod.data_url_base.path, subpath);
-  } else {
-    _block = mod.data_url_base.path + "/" + subpath;
-  }
-  let new_path = _block;
+  let new_path = mod.data_url_base.path + subpath;
   let _record = mod.data_url_base;
   return new Uri(_record.scheme, _record.userinfo, _record.host, _record.port, new_path, _record.query, _record.fragment);
 }
@@ -8304,12 +8336,12 @@ function request_lsas(mod) {
   if ($ instanceof Ok) {
     req = $[0];
   } else {
-    throw makeError("let_assert", FILEPATH2, "lsaui", 122, "request_lsas", "Pattern match failed, no pattern matched the value.", {
+    throw makeError("let_assert", FILEPATH2, "lsaui", 125, "request_lsas", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 2977,
-      end: 3074,
-      pattern_start: 2988,
-      pattern_end: 2995
+      start: 3056,
+      end: 3153,
+      pattern_start: 3067,
+      pattern_end: 3074
     });
   }
   let handler = (resp) => {
@@ -8339,12 +8371,12 @@ function request_svg(mod) {
   if ($ instanceof Ok) {
     req = $[0];
   } else {
-    throw makeError("let_assert", FILEPATH2, "lsaui", 145, "request_svg", "Pattern match failed, no pattern matched the value.", {
+    throw makeError("let_assert", FILEPATH2, "lsaui", 148, "request_svg", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 3653,
-      end: 3698,
-      pattern_start: 3664,
-      pattern_end: 3671
+      start: 3732,
+      end: 3777,
+      pattern_start: 3743,
+      pattern_end: 3750
     });
   }
   let handler = (resp) => {
@@ -8401,8 +8433,8 @@ function update2(mod, msg) {
     ];
   }
 }
-function init(base_data_url) {
-  let $ = request_lsas(fresh_model(base_data_url));
+function init(_) {
+  let $ = request_lsas(fresh_model());
   let w_data_req;
   let data_efkt;
   w_data_req = $[0];
@@ -8519,16 +8551,15 @@ function view(mod) {
   ]));
 }
 function main() {
-  let base_url = new Uri(new Some("http"), new None, new Some("localhost"), new Some(8080), "/lsaui/data", new None, new None);
   let app = application(init, update2, view);
-  let $ = start4(app, "#interactive", base_url);
+  let $ = start4(app, "#interactive", undefined);
   if (!($ instanceof Ok)) {
-    throw makeError("let_assert", FILEPATH2, "lsaui", 282, "main", "Pattern match failed, no pattern matched the value.", {
+    throw makeError("let_assert", FILEPATH2, "lsaui", 275, "main", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 7680,
-      end: 7742,
-      pattern_start: 7691,
-      pattern_end: 7696
+      start: 7578,
+      end: 7635,
+      pattern_start: 7589,
+      pattern_end: 7594
     });
   }
   return;

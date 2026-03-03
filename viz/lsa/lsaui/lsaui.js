@@ -8258,9 +8258,9 @@ function fresh_model() {
   let _block;
   let $1 = ends_with(path, "/");
   if ($1) {
-    _block = path;
+    _block = path + "lsaui/data/";
   } else {
-    _block = path + "/";
+    _block = path + "/lsaui/data/";
   }
   let path$1 = _block;
   let _block$1;
@@ -8338,10 +8338,10 @@ function request_lsas(mod) {
   } else {
     throw makeError("let_assert", FILEPATH2, "lsaui", 125, "request_lsas", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 3056,
-      end: 3153,
-      pattern_start: 3067,
-      pattern_end: 3074
+      start: 3084,
+      end: 3181,
+      pattern_start: 3095,
+      pattern_end: 3102
     });
   }
   let handler = (resp) => {
@@ -8373,10 +8373,10 @@ function request_svg(mod) {
   } else {
     throw makeError("let_assert", FILEPATH2, "lsaui", 148, "request_svg", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 3732,
-      end: 3777,
-      pattern_start: 3743,
-      pattern_end: 3750
+      start: 3760,
+      end: 3805,
+      pattern_start: 3771,
+      pattern_end: 3778
     });
   }
   let handler = (resp) => {
@@ -8556,10 +8556,10 @@ function main() {
   if (!($ instanceof Ok)) {
     throw makeError("let_assert", FILEPATH2, "lsaui", 275, "main", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 7578,
-      end: 7635,
-      pattern_start: 7589,
-      pattern_end: 7594
+      start: 7606,
+      end: 7663,
+      pattern_start: 7617,
+      pattern_end: 7622
     });
   }
   return;

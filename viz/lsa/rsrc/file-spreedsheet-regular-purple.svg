@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="662px" height="662px" viewBox="0 0 662 662" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>file-spreedsheet-regular-purple</title>
+    <g id="file-spreedsheet-regular-purple" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file-spreadsheet-regular" transform="translate(139, 75)" fill="#613765" fill-rule="nonzero">
+            <path d="M48,448 L48,64 C48,55.2 55.2,48 64,48 L224,48 L224,128 C224,145.7 238.3,160 256,160 L336,160 L336,448 C336,456.8 328.8,464 320,464 L64,464 C55.2,464 48,456.8 48,448 Z M64,0 C28.7,0 0,28.7 0,64 L0,448 C0,483.3 28.7,512 64,512 L320,512 C355.3,512 384,483.3 384,448 L384,154.5 C384,137.5 377.3,121.2 365.3,109.2 L274.7,18.7 C262.7,6.7 246.5,0 229.5,0 L64,0 Z M176,256 L176,304 L112,304 L112,256 L176,256 Z M112,336 L176,336 L176,384 L112,384 L112,336 Z M208,336 L272,336 L272,384 L208,384 L208,336 Z M192,416 L208,416 L272,416 C289.7,416 304,401.7 304,384 L304,336 L304,320 L304,304 L304,256 C304,238.3 289.7,224 272,224 L208,224 L192,224 L176,224 L112,224 C94.3,224 80,238.3 80,256 L80,304 L80,320 L80,336 L80,384 C80,401.7 94.3,416 112,416 L176,416 L192,416 Z M208,304 L208,256 L272,256 L272,304 L208,304 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="662px" height="662px" viewBox="0 0 662 662" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>file-lines-regular-blue</title>
+    <g id="file-lines-regular-blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file-lines-regular" transform="translate(139, 75)" fill="#346076" fill-rule="nonzero">
+            <path d="M64,464 C55.2,464 48,456.8 48,448 L48,64 C48,55.2 55.2,48 64,48 L224,48 L224,128 C224,145.7 238.3,160 256,160 L336,160 L336,448 C336,456.8 328.8,464 320,464 L64,464 Z M64,0 C28.7,0 0,28.7 0,64 L0,448 C0,483.3 28.7,512 64,512 L320,512 C355.3,512 384,483.3 384,448 L384,154.5 C384,137.5 377.3,121.2 365.3,109.2 L274.7,18.7 C262.7,6.7 246.5,0 229.5,0 L64,0 Z M120,256 C106.7,256 96,266.7 96,280 C96,293.3 106.7,304 120,304 L264,304 C277.3,304 288,293.3 288,280 C288,266.7 277.3,256 264,256 L120,256 Z M120,352 C106.7,352 96,362.7 96,376 C96,389.3 106.7,400 120,400 L264,400 C277.3,400 288,389.3 288,376 C288,362.7 277.3,352 264,352 L120,352 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

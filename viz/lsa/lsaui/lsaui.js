@@ -8153,6 +8153,27 @@ function get_origin() {
 }
 
 // build/dev/javascript/lsaui/util.mjs
+function get_base_url() {
+  let $ = get_origin();
+  let scheme;
+  let host;
+  let portstr;
+  let path;
+  scheme = $.scheme;
+  host = $.host;
+  portstr = $.port;
+  path = $.path;
+  let _block;
+  let $1 = parse_int(portstr);
+  if ($1 instanceof Ok) {
+    let port2 = $1[0];
+    _block = new Some(port2);
+  } else {
+    _block = new None;
+  }
+  let port = _block;
+  return new Uri(new Some(scheme), new None, new Some(host), port, path, new None, new None);
+}
 function first_key(map9) {
   let max_n = size(map9);
   let _pipe = range(0, max_n, new None, (acc, next) => {
@@ -8246,25 +8267,17 @@ function dump(thing, tag) {
   return thing;
 }
 function fresh_model() {
-  let $ = get_origin();
-  let scheme;
-  let host;
-  let port;
-  let path;
-  scheme = $.scheme;
-  host = $.host;
-  port = $.port;
-  path = $.path;
+  let base = get_base_url();
   let _block;
-  let $1 = ends_with(path, "/");
-  if ($1) {
-    _block = path + "lsaui/data/";
+  let $ = ends_with(base.path, "/");
+  if ($) {
+    _block = base.path + "lsaui/data/";
   } else {
-    _block = path + "/lsaui/data/";
+    _block = base.path + "/lsaui/data/";
   }
-  let path$1 = _block;
+  let path = _block;
   let _block$1;
-  let _pipe = new Uri(new Some(scheme), new None, new Some(host), new Some(port), path$1, new None, new None);
+  let _pipe = new Uri(base.scheme, base.userinfo, base.host, base.port, path, base.query, base.fragment);
   _block$1 = dump(_pipe, "BASE_URI");
   let data_url_base = _block$1;
   return new Model(data_url_base, "1", make(), "", make(), toList([]));
@@ -8338,10 +8351,10 @@ function request_lsas(mod) {
   } else {
     throw makeError("let_assert", FILEPATH2, "lsaui", 125, "request_lsas", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 3084,
-      end: 3181,
-      pattern_start: 3095,
-      pattern_end: 3102
+      start: 3031,
+      end: 3128,
+      pattern_start: 3042,
+      pattern_end: 3049
     });
   }
   let handler = (resp) => {
@@ -8373,10 +8386,10 @@ function request_svg(mod) {
   } else {
     throw makeError("let_assert", FILEPATH2, "lsaui", 148, "request_svg", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 3760,
-      end: 3805,
-      pattern_start: 3771,
-      pattern_end: 3778
+      start: 3707,
+      end: 3752,
+      pattern_start: 3718,
+      pattern_end: 3725
     });
   }
   let handler = (resp) => {
@@ -8556,10 +8569,10 @@ function main() {
   if (!($ instanceof Ok)) {
     throw makeError("let_assert", FILEPATH2, "lsaui", 275, "main", "Pattern match failed, no pattern matched the value.", {
       value: $,
-      start: 7606,
-      end: 7663,
-      pattern_start: 7617,
-      pattern_end: 7622
+      start: 7553,
+      end: 7610,
+      pattern_start: 7564,
+      pattern_end: 7569
     });
   }
   return;

@@ -8164,15 +8164,23 @@ function get_base_url() {
   portstr = $.port;
   path = $.path;
   let _block;
-  let $1 = parse_int(portstr);
-  if ($1 instanceof Ok) {
-    let port2 = $1[0];
-    _block = new Some(port2);
+  let $1 = contains_string(scheme, "s");
+  if ($1) {
+    _block = "https";
   } else {
-    _block = new None;
+    _block = "http";
   }
-  let port = _block;
-  return new Uri(new Some(scheme), new None, new Some(host), port, path, new None, new None);
+  let scheme$1 = _block;
+  let _block$1;
+  let $2 = parse_int(portstr);
+  if ($2 instanceof Ok) {
+    let port2 = $2[0];
+    _block$1 = new Some(port2);
+  } else {
+    _block$1 = new None;
+  }
+  let port = _block$1;
+  return new Uri(new Some(scheme$1), new None, new Some(host), port, path, new None, new None);
 }
 function first_key(map9) {
   let max_n = size(map9);

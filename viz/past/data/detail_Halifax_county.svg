@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='288.00pt' height='216.00pt' viewBox='0 0 288.00 216.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwyODguMDB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='288.00' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.00' y='0.00' width='288.00' height='216.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNzkuNzN8MjgyLjUyfDM4LjEyfDE4NS4xMA=='>
+    <rect x='79.73' y='38.12' width='202.79' height='146.98' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNzkuNzN8MjgyLjUyfDM4LjEyfDE4NS4xMA==)'>
+<polyline points='121.09,185.10 121.09,38.12 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='185.37,185.10 185.37,38.12 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='249.64,185.10 249.64,38.12 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='79.73,111.61 282.52,111.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='88.95,185.10 88.95,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='153.23,185.10 153.23,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='217.50,185.10 217.50,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='281.78,185.10 281.78,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='88.95' y='56.50' width='184.35' height='110.23' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+</g>
+<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwyMTYuMDA=)'>
+<text x='74.80' y='114.64' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='56.72px' lengthAdjust='spacingAndGlyphs'>A 01: Planning</text>
+<text x='88.95' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>$0</text>
+<text x='153.23' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='15.66px' lengthAdjust='spacingAndGlyphs'>$2K</text>
+<text x='217.50' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='15.66px' lengthAdjust='spacingAndGlyphs'>$4K</text>
+<text x='281.78' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='15.66px' lengthAdjust='spacingAndGlyphs'>$6K</text>
+<text x='181.13' y='208.23' text-anchor='middle' style='font-size: 11.00px; font-family: "Arimo";' textLength='60.56px' lengthAdjust='spacingAndGlyphs'>Spent ($US)</text>
+<text transform='translate(13.05,111.61) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arimo";' textLength='41.00px' lengthAdjust='spacingAndGlyphs'>Strategy</text>
+<text x='79.73' y='30.36' style='font-size: 11.00px; font-family: "Arimo";' textLength='86.88px' lengthAdjust='spacingAndGlyphs'>Detail by Strategy</text>
+<text x='79.73' y='14.56' style='font-size: 13.20px; font-family: "Arimo";' textLength='145.09px' lengthAdjust='spacingAndGlyphs'>Halifax County Spending</text>
+</g>
+</g>
+</svg>

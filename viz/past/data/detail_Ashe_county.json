@@ -1,0 +1,56 @@
+[
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$83,021"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$125,000"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$15,000"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 04",
+    "spent": "$75,000"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$80,805"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$15,000"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$15,000"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 09",
+    "spent": "$15,000"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "slug": "A 11",
+    "spent": "$17,190"
+  }
+]

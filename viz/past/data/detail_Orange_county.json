@@ -1,0 +1,50 @@
+[
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$119,943"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$201,887"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$378,039"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$20,000"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$30,681"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$237,696"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 09",
+    "spent": "$32,436"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "slug": "A 12",
+    "spent": "$94,248"
+  }
+]

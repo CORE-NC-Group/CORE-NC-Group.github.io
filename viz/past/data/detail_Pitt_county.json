@@ -1,0 +1,38 @@
+[
+  {
+    "govt_name": "Pitt",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$80,041"
+  },
+  {
+    "govt_name": "Pitt",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$257,291"
+  },
+  {
+    "govt_name": "Pitt",
+    "govt_type": "county",
+    "slug": "A 05",
+    "spent": "$12,298"
+  },
+  {
+    "govt_name": "Pitt",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$37,418"
+  },
+  {
+    "govt_name": "Pitt",
+    "govt_type": "county",
+    "slug": "A 09",
+    "spent": "$200,000"
+  },
+  {
+    "govt_name": "Pitt",
+    "govt_type": "county",
+    "slug": "A 12",
+    "spent": "$105,033"
+  }
+]

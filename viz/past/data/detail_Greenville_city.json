@@ -1,0 +1,20 @@
+[
+  {
+    "govt_name": "Greenville",
+    "govt_type": "city",
+    "slug": "A 01",
+    "spent": "$125,365"
+  },
+  {
+    "govt_name": "Greenville",
+    "govt_type": "city",
+    "slug": "A 03",
+    "spent": "$350,000"
+  },
+  {
+    "govt_name": "Greenville",
+    "govt_type": "city",
+    "slug": "A 04",
+    "spent": "$25,510"
+  }
+]

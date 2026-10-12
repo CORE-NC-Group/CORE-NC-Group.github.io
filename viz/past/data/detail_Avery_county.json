@@ -1,0 +1,44 @@
+[
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$48,431"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$89,880"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$7,281"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$2,500"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$19,720"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$34,119"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "slug": "A 12",
+    "spent": "$78,275"
+  }
+]

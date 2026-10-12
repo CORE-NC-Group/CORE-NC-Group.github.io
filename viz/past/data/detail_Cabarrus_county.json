@@ -1,0 +1,38 @@
+[
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$217,727"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$438,985"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$323,558"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "slug": "A 04",
+    "spent": "$65,749"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "slug": "A 11",
+    "spent": "$339,245"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "slug": "B E",
+    "spent": "$10,933"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "A 01",
+    "ex": "A",
+    "short": "Planning",
+    "long": "Collaborative Strategic Planning"
+  },
+  {
+    "slug": "A 02",
+    "ex": "A",
+    "short": "Treatment",
+    "long": "Evidence-Based Addiction Treatment"
+  },
+  {
+    "slug": "A 03",
+    "ex": "A",
+    "short": "Recovery",
+    "long": "Recovery Support Services"
+  },
+  {
+    "slug": "A 04",
+    "ex": "A",
+    "short": "Housing",
+    "long": "Recovery Housing Support"
+  },
+  {
+    "slug": "A 05",
+    "ex": "A",
+    "short": "Employment",
+    "long": "Employment-related Services"
+  },
+  {
+    "slug": "A 06",
+    "ex": "A",
+    "short": "Early Intervention",
+    "long": "Early Intervention"
+  },
+  {
+    "slug": "A 07",
+    "ex": "A",
+    "short": "Naloxone",
+    "long": "Naloxone Distribution"
+  },
+  {
+    "slug": "A 08",
+    "ex": "A",
+    "short": "PORT",
+    "long": "Post-Overdose Response Team"
+  },
+  {
+    "slug": "A 09",
+    "ex": "A",
+    "short": "Syringe Services",
+    "long": "Syringe Services Program"
+  },
+  {
+    "slug": "A 10",
+    "ex": "A",
+    "short": "CJ Diversion",
+    "long": "Criminal Justice Diversion Programs"
+  },
+  {
+    "slug": "A 11",
+    "ex": "A",
+    "short": "Treatment - Jails",
+    "long": "Addiction Treatment for Incarcerated Persons"
+  },
+  {
+    "slug": "A 12",
+    "ex": "A",
+    "short": "Reentry",
+    "long": "Reentry Programs"
+  },
+  {
+    "slug": "B A",
+    "ex": "B",
+    "short": "Treat OUD",
+    "long": "Treat Opioid Use Disorder"
+  },
+  {
+    "slug": "B B",
+    "ex": "B",
+    "short": "Support ",
+    "long": "Support People in Treatment and Recovery"
+  },
+  {
+    "slug": "B C",
+    "ex": "B",
+    "short": "Connect w/ Help",
+    "long": "Connect People to the Help They Need"
+  },
+  {
+    "slug": "B D",
+    "ex": "B",
+    "short": "CJ Involved Persons",
+    "long": "Address the Needs of Criminal-Justice-Involved Persons"
+  },
+  {
+    "slug": "B E",
+    "ex": "B",
+    "short": "Pregnant/Families",
+    "long": "Address the Needs of Pregnant Women and Their Families"
+  },
+  {
+    "slug": "B F",
+    "ex": "B",
+    "short": "Prescribe & Dispense",
+    "long": "Ensure Appropriate Prescribing and Dispensing of Opioids"
+  },
+  {
+    "slug": "B G",
+    "ex": "B",
+    "short": "Prevent Misuse",
+    "long": "Prevent Misuse of Opioids"
+  },
+  {
+    "slug": "B H",
+    "ex": "B",
+    "short": "Prevent OD Deaths",
+    "long": "Prevent Overdose Deaths and Other Harm"
+  },
+  {
+    "slug": "B I",
+    "ex": "B",
+    "short": "First Responders",
+    "long": "First Responder Education and Support"
+  },
+  {
+    "slug": "B J",
+    "ex": "B",
+    "short": "Leadership/Planning",
+    "long": "Leadership, Planning, and Coordination"
+  },
+  {
+    "slug": "B K",
+    "ex": "B",
+    "short": "Training",
+    "long": "Training"
+  },
+  {
+    "slug": "B L",
+    "ex": "B",
+    "short": "Research",
+    "long": "Research"
+  }
+]

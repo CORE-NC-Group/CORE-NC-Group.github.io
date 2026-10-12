@@ -1,0 +1,38 @@
+[
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$11,000"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$14,796"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$217,928"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$15,000"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "slug": "A 11",
+    "spent": "$165,313"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "slug": "A 12",
+    "spent": "$50,465"
+  }
+]

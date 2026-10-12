@@ -1,0 +1,44 @@
+[
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$232,514"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$395,178"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$914,358"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "slug": "A 04",
+    "spent": "$288,660"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$441,494"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$153,009"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "slug": "A 11",
+    "spent": "$306,246"
+  }
+]

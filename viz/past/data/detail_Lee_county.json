@@ -1,0 +1,26 @@
+[
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$30,000"
+  },
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$109,619"
+  },
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "slug": "A 10",
+    "spent": "$68,209"
+  },
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "slug": "A 12",
+    "spent": "$51,976"
+  }
+]

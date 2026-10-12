@@ -1,0 +1,1028 @@
+[
+  {
+    "govt_name": "Alamance",
+    "govt_type": "county",
+    "id": "#000001",
+    "total": "$923,110.90",
+    "ex_a_tot": "$923,110",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Alexander",
+    "govt_type": "county",
+    "id": "#000002",
+    "total": "$499,961.86",
+    "ex_a_tot": "$499,961",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "id": "#000003",
+    "total": "$242,407.73",
+    "ex_a_tot": "$242,407",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Anson",
+    "govt_type": "county",
+    "id": "#000004",
+    "total": "$129,524.04",
+    "ex_a_tot": "$129,524",
+    "ex_b_tot": "$NA",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Ashe",
+    "govt_type": "county",
+    "id": "#000005",
+    "total": "$441,016.00",
+    "ex_a_tot": "$441,016",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Asheville",
+    "govt_type": "city",
+    "id": "#00006C",
+    "total": "$72,554.41",
+    "ex_a_tot": "$72,554",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Avery",
+    "govt_type": "county",
+    "id": "#000006",
+    "total": "$280,206.02",
+    "ex_a_tot": "$280,206",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Beaufort",
+    "govt_type": "county",
+    "id": "#000007",
+    "total": "$252,964.39",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$252,964",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Bladen",
+    "govt_type": "county",
+    "id": "#000009",
+    "total": "$279,930.70",
+    "ex_a_tot": "$279,930",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Brunswick",
+    "govt_type": "county",
+    "id": "#00000A",
+    "total": "$772,961.88",
+    "ex_a_tot": "$772,961",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Buncombe",
+    "govt_type": "county",
+    "id": "#00000B",
+    "total": "$5,618,280.80",
+    "ex_a_tot": "$5,618,280",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Burke",
+    "govt_type": "county",
+    "id": "#00000C",
+    "total": "$422,361.87",
+    "ex_a_tot": "$422,361",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Cabarrus",
+    "govt_type": "county",
+    "id": "#00000D",
+    "total": "$1,396,199.58",
+    "ex_a_tot": "$1,385,265",
+    "ex_b_tot": "$10,933",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Caldwell",
+    "govt_type": "county",
+    "id": "#00000E",
+    "total": "$1,037,415.10",
+    "ex_a_tot": "$1,037,415",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Camden",
+    "govt_type": "county",
+    "id": "#00000F",
+    "total": "$4,288.30",
+    "ex_a_tot": "$4,288",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Carteret",
+    "govt_type": "county",
+    "id": "#000010",
+    "total": "$1,159,945.58",
+    "ex_a_tot": "$1,159,945",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Caswell",
+    "govt_type": "county",
+    "id": "#000011",
+    "total": "$55,761.22",
+    "ex_a_tot": "$55,761",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Catawba",
+    "govt_type": "county",
+    "id": "#000012",
+    "total": "$411,598.59",
+    "ex_a_tot": "$411,598",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Charlotte",
+    "govt_type": "city",
+    "id": "#000066",
+    "total": "$1,050,000.00",
+    "ex_a_tot": "$1,050,000",
+    "ex_b_tot": "$NA",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Chatham",
+    "govt_type": "county",
+    "id": "#000013",
+    "total": "$361,908.94",
+    "ex_a_tot": "$361,908",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Clay",
+    "govt_type": "county",
+    "id": "#000016",
+    "total": "$87,241.21",
+    "ex_a_tot": "$87,241",
+    "ex_b_tot": "$NA",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Cleveland",
+    "govt_type": "county",
+    "id": "#000017",
+    "total": "$366,555.49",
+    "ex_a_tot": "$366,555",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Columbus",
+    "govt_type": "county",
+    "id": "#000018",
+    "total": "$868,957.65",
+    "ex_a_tot": "$131,978",
+    "ex_b_tot": "$736,979",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Craven",
+    "govt_type": "county",
+    "id": "#000019",
+    "total": "$608,548.46",
+    "ex_a_tot": "$608,548",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Cumberland",
+    "govt_type": "county",
+    "id": "#00001A",
+    "total": "$1,010,749.30",
+    "ex_a_tot": "$1,010,749",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Currituck",
+    "govt_type": "county",
+    "id": "#00001B",
+    "total": "$25,426.73",
+    "ex_a_tot": "$25,426",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Dare",
+    "govt_type": "county",
+    "id": "#00001C",
+    "total": "$958,848.00",
+    "ex_a_tot": "$920,966",
+    "ex_b_tot": "$37,881",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Davidson",
+    "govt_type": "county",
+    "id": "#00001D",
+    "total": "$99,122.27",
+    "ex_a_tot": "$99,122",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Davie",
+    "govt_type": "county",
+    "id": "#00001E",
+    "total": "$305,531.77",
+    "ex_a_tot": "$305,531",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Duplin",
+    "govt_type": "county",
+    "id": "#00001F",
+    "total": "$352,392.84",
+    "ex_a_tot": "$352,392",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Durham",
+    "govt_type": "county",
+    "id": "#000020",
+    "total": "$896,447.57",
+    "ex_a_tot": "$896,447",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Durham",
+    "govt_type": "city",
+    "id": "#000068",
+    "total": "$685,968.52",
+    "ex_a_tot": "$685,968",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Edgecombe",
+    "govt_type": "county",
+    "id": "#000021",
+    "total": "$749,377.91",
+    "ex_a_tot": "$749,377",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Fayetteville",
+    "govt_type": "city",
+    "id": "#000071",
+    "total": "$197,035.09",
+    "ex_a_tot": "$197,035",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Forsyth",
+    "govt_type": "county",
+    "id": "#000022",
+    "total": "$3,082,698.23",
+    "ex_a_tot": "$1,767,559",
+    "ex_b_tot": "$1,315,138",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Franklin",
+    "govt_type": "county",
+    "id": "#000023",
+    "total": "$759,346.91",
+    "ex_a_tot": "$759,346",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "id": "#000024",
+    "total": "$2,351,572.84",
+    "ex_a_tot": "$2,351,572",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Gates",
+    "govt_type": "county",
+    "id": "#000025",
+    "total": "$12,555.42",
+    "ex_a_tot": "$12,555",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Graham",
+    "govt_type": "county",
+    "id": "#000026",
+    "total": "$189,984.15",
+    "ex_a_tot": "$189,984",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Granville",
+    "govt_type": "county",
+    "id": "#000027",
+    "total": "$231,288.16",
+    "ex_a_tot": "$231,288",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Greene",
+    "govt_type": "county",
+    "id": "#000028",
+    "total": "$2,000.00",
+    "ex_a_tot": "$2,000",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Greenville",
+    "govt_type": "city",
+    "id": "#000072",
+    "total": "$500,876.00",
+    "ex_a_tot": "$500,876",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Guilford",
+    "govt_type": "county",
+    "id": "#000029",
+    "total": "$4,911,729.14",
+    "ex_a_tot": "$4,866,267",
+    "ex_b_tot": "$45,461",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Halifax",
+    "govt_type": "county",
+    "id": "#00002A",
+    "total": "$5,736.26",
+    "ex_a_tot": "$5,736",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Harnett",
+    "govt_type": "county",
+    "id": "#00002B",
+    "total": "$97,839.57",
+    "ex_a_tot": "$97,839",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "county",
+    "id": "#00002D",
+    "total": "$708,813.43",
+    "ex_a_tot": "$417,432",
+    "ex_b_tot": "$291,380",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Hickory",
+    "govt_type": "city",
+    "id": "#00006B",
+    "total": "$89,781.76",
+    "ex_a_tot": "$89,781",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "High Point",
+    "govt_type": "city",
+    "id": "#000069",
+    "total": "$33,400.00",
+    "ex_a_tot": "$33,400",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Hoke",
+    "govt_type": "county",
+    "id": "#00002F",
+    "total": "$308,308.00",
+    "ex_a_tot": "$308,308",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Iredell",
+    "govt_type": "county",
+    "id": "#000031",
+    "total": "$1,286,156.82",
+    "ex_a_tot": "$1,286,156",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Jacksonville",
+    "govt_type": "city",
+    "id": "#000070",
+    "total": "$51,209.83",
+    "ex_a_tot": "$51,209",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Johnston",
+    "govt_type": "county",
+    "id": "#000033",
+    "total": "$969,622.40",
+    "ex_a_tot": "$969,622",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Jones",
+    "govt_type": "county",
+    "id": "#000034",
+    "total": "$28,993.11",
+    "ex_a_tot": "$28,993",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Lee",
+    "govt_type": "county",
+    "id": "#000035",
+    "total": "$259,805.40",
+    "ex_a_tot": "$259,805",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Lenoir",
+    "govt_type": "county",
+    "id": "#000036",
+    "total": "$5,000.00",
+    "ex_a_tot": "$5,000",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Lincoln",
+    "govt_type": "county",
+    "id": "#000037",
+    "total": "$283,994.19",
+    "ex_a_tot": "$52,723",
+    "ex_b_tot": "$231,270",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Madison",
+    "govt_type": "county",
+    "id": "#000039",
+    "total": "$53,819.55",
+    "ex_a_tot": "$53,819",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Martin",
+    "govt_type": "county",
+    "id": "#00003A",
+    "total": "$85,017.61",
+    "ex_a_tot": "$85,017",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "id": "#00003B",
+    "total": "$553,721.97",
+    "ex_a_tot": "$553,721",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Mecklenburg",
+    "govt_type": "county",
+    "id": "#00003C",
+    "total": "$4,966,133.59",
+    "ex_a_tot": "$4,966,133",
+    "ex_b_tot": "$NA",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Montgomery",
+    "govt_type": "county",
+    "id": "#00003E",
+    "total": "$156,948.57",
+    "ex_a_tot": "$156,948",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Moore",
+    "govt_type": "county",
+    "id": "#00003F",
+    "total": "$872,580.58",
+    "ex_a_tot": "$872,580",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Nash",
+    "govt_type": "county",
+    "id": "#000040",
+    "total": "$51,119.95",
+    "ex_a_tot": "$51,119",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "New Hanover",
+    "govt_type": "county",
+    "id": "#000041",
+    "total": "$3,413,490.48",
+    "ex_a_tot": "$1,967,135",
+    "ex_b_tot": "$1,446,355",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Northampton",
+    "govt_type": "county",
+    "id": "#000042",
+    "total": "$108,063.14",
+    "ex_a_tot": "$108,063",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Onslow",
+    "govt_type": "county",
+    "id": "#000043",
+    "total": "$883,263.71",
+    "ex_a_tot": "$883,263",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Orange",
+    "govt_type": "county",
+    "id": "#000044",
+    "total": "$1,114,932.61",
+    "ex_a_tot": "$1,114,932",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Pamlico",
+    "govt_type": "county",
+    "id": "#000045",
+    "total": "$21,231.27",
+    "ex_a_tot": "$21,231",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Pender",
+    "govt_type": "county",
+    "id": "#000047",
+    "total": "$809,751.65",
+    "ex_a_tot": "$484,624",
+    "ex_b_tot": "$325,127",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Perquimans",
+    "govt_type": "county",
+    "id": "#000048",
+    "total": "$31,537.00",
+    "ex_a_tot": "$31,537",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Person",
+    "govt_type": "county",
+    "id": "#000049",
+    "total": "$108,448.59",
+    "ex_a_tot": "$108,448",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Pitt",
+    "govt_type": "county",
+    "id": "#00004A",
+    "total": "$692,083.57",
+    "ex_a_tot": "$692,083",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Randolph",
+    "govt_type": "county",
+    "id": "#00004C",
+    "total": "$597,972.99",
+    "ex_a_tot": "$597,972",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "id": "#00004D",
+    "total": "$649,332.81",
+    "ex_a_tot": "$649,332",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Robeson",
+    "govt_type": "county",
+    "id": "#00004E",
+    "total": "$1,073,932.51",
+    "ex_a_tot": "$1,073,932",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Rockingham",
+    "govt_type": "county",
+    "id": "#00004F",
+    "total": "$440,836.98",
+    "ex_a_tot": "$440,836",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Rowan",
+    "govt_type": "county",
+    "id": "#000050",
+    "total": "$1,042,413.44",
+    "ex_a_tot": "$1,042,413",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Rutherford",
+    "govt_type": "county",
+    "id": "#000051",
+    "total": "$362,264.61",
+    "ex_a_tot": "$362,264",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Scotland",
+    "govt_type": "county",
+    "id": "#000053",
+    "total": "$275,657.36",
+    "ex_a_tot": "$97,102",
+    "ex_b_tot": "$178,554",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Stanly",
+    "govt_type": "county",
+    "id": "#000054",
+    "total": "$1,105,362.57",
+    "ex_a_tot": "$1,105,362",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Stokes",
+    "govt_type": "county",
+    "id": "#000055",
+    "total": "$303,685.37",
+    "ex_a_tot": "$303,685",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Surry",
+    "govt_type": "county",
+    "id": "#000056",
+    "total": "$761,815.14",
+    "ex_a_tot": "$761,815",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Transylvania",
+    "govt_type": "county",
+    "id": "#000058",
+    "total": "$24,885.15",
+    "ex_a_tot": "$24,885",
+    "ex_b_tot": "$NA",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Tyrrell",
+    "govt_type": "county",
+    "id": "#000059",
+    "total": "$12,522.40",
+    "ex_a_tot": "$12,522",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "id": "#00005A",
+    "total": "$1,740,004.61",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$1,740,004",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Wake",
+    "govt_type": "county",
+    "id": "#00005C",
+    "total": "$2,731,462.88",
+    "ex_a_tot": "$2,731,462",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Warren",
+    "govt_type": "county",
+    "id": "#00005D",
+    "total": "$34,961.01",
+    "ex_a_tot": "$34,961",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Washington",
+    "govt_type": "county",
+    "id": "#00005E",
+    "total": "$62,460.38",
+    "ex_a_tot": "$62,460",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Watauga",
+    "govt_type": "county",
+    "id": "#00005F",
+    "total": "$1,058,434.00",
+    "ex_a_tot": "$1,058,434",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Wayne",
+    "govt_type": "county",
+    "id": "#000060",
+    "total": "$474,503.51",
+    "ex_a_tot": "$474,503",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Wilkes",
+    "govt_type": "county",
+    "id": "#000061",
+    "total": "$2,180,463.51",
+    "ex_a_tot": "$1,999,469",
+    "ex_b_tot": "$180,994",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Wilmington",
+    "govt_type": "city",
+    "id": "#00006E",
+    "total": "$449,666.68",
+    "ex_a_tot": "$449,666",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Wilson",
+    "govt_type": "county",
+    "id": "#000062",
+    "total": "$884,828.81",
+    "ex_a_tot": "$884,828",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Winston-Salem",
+    "govt_type": "city",
+    "id": "#000065",
+    "total": "$1,247,075.79",
+    "ex_a_tot": "$1,247,075",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Yadkin",
+    "govt_type": "county",
+    "id": "#000063",
+    "total": "$335,508.25",
+    "ex_a_tot": "$335,508",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Yancey",
+    "govt_type": "county",
+    "id": "#000064",
+    "total": "$32,000.00",
+    "ex_a_tot": "$32,000",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Bertie",
+    "govt_type": "county",
+    "id": "#000008",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Cherokee",
+    "govt_type": "county",
+    "id": "#000014",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Chowan",
+    "govt_type": "county",
+    "id": "#000015",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Haywood",
+    "govt_type": "county",
+    "id": "#00002C",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Hertford",
+    "govt_type": "county",
+    "id": "#00002E",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Hyde",
+    "govt_type": "county",
+    "id": "#000030",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Jackson",
+    "govt_type": "county",
+    "id": "#000032",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Macon",
+    "govt_type": "county",
+    "id": "#000038",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ur"
+  },
+  {
+    "govt_name": "Mitchell",
+    "govt_type": "county",
+    "id": "#00003D",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Pasquotank",
+    "govt_type": "county",
+    "id": "#000046",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Polk",
+    "govt_type": "county",
+    "id": "#00004B",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Sampson",
+    "govt_type": "county",
+    "id": "#000052",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ul"
+  },
+  {
+    "govt_name": "Swain",
+    "govt_type": "county",
+    "id": "#000057",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Vance",
+    "govt_type": "county",
+    "id": "#00005B",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Greensboro",
+    "govt_type": "city",
+    "id": "#000067",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Canton",
+    "govt_type": "city",
+    "id": "#00006A",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  },
+  {
+    "govt_name": "Henderson",
+    "govt_type": "city",
+    "id": "#00006D",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "ll"
+  },
+  {
+    "govt_name": "Concord",
+    "govt_type": "city",
+    "id": "#00006F",
+    "total": "$NA",
+    "ex_a_tot": "$NA",
+    "ex_b_tot": "$NA",
+    "corner": "lr"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$119,840"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$514,047"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$1,203,967"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$142,071"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$64,750"
+  },
+  {
+    "govt_name": "Gaston",
+    "govt_type": "county",
+    "slug": "A 11",
+    "spent": "$306,895"
+  }
+]

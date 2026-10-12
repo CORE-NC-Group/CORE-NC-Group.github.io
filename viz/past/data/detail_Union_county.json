@@ -1,0 +1,44 @@
+[
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "slug": "B A",
+    "spent": "$116,666"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "slug": "B B",
+    "spent": "$128,286"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "slug": "B D",
+    "spent": "$622,755"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "slug": "B E",
+    "spent": "$400,000"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "slug": "B G",
+    "spent": "$99,057"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "slug": "B H",
+    "spent": "$23,383"
+  },
+  {
+    "govt_name": "Union",
+    "govt_type": "county",
+    "slug": "B J",
+    "spent": "$349,855"
+  }
+]

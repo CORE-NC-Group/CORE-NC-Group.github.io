@@ -1,0 +1,20 @@
+[
+  {
+    "govt_name": "Rutherford",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$60,000"
+  },
+  {
+    "govt_name": "Rutherford",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$48,887"
+  },
+  {
+    "govt_name": "Rutherford",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$253,377"
+  }
+]

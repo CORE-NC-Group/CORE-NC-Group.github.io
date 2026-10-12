@@ -1,0 +1,38 @@
+[
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$32,838"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$100,000"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$7,500"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$7,500"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$87,069"
+  },
+  {
+    "govt_name": "Alleghany",
+    "govt_type": "county",
+    "slug": "A 09",
+    "spent": "$7,500"
+  }
+]

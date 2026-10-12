@@ -1,0 +1,26 @@
+[
+  {
+    "govt_name": "Jones",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$9,100"
+  },
+  {
+    "govt_name": "Jones",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$2,558"
+  },
+  {
+    "govt_name": "Jones",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$10,800"
+  },
+  {
+    "govt_name": "Jones",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$6,535"
+  }
+]

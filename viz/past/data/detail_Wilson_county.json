@@ -1,0 +1,38 @@
+[
+  {
+    "govt_name": "Wilson",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$250,000"
+  },
+  {
+    "govt_name": "Wilson",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$165,218"
+  },
+  {
+    "govt_name": "Wilson",
+    "govt_type": "county",
+    "slug": "A 04",
+    "spent": "$51,582"
+  },
+  {
+    "govt_name": "Wilson",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$176,881"
+  },
+  {
+    "govt_name": "Wilson",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$184,568"
+  },
+  {
+    "govt_name": "Wilson",
+    "govt_type": "county",
+    "slug": "A 09",
+    "spent": "$56,579"
+  }
+]

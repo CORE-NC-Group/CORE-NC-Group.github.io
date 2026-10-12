@@ -1,0 +1,32 @@
+[
+  {
+    "govt_name": "Durham",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$143,387"
+  },
+  {
+    "govt_name": "Durham",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$311,170"
+  },
+  {
+    "govt_name": "Durham",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$294,462"
+  },
+  {
+    "govt_name": "Durham",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$104,362"
+  },
+  {
+    "govt_name": "Durham",
+    "govt_type": "county",
+    "slug": "A 09",
+    "spent": "$43,063"
+  }
+]

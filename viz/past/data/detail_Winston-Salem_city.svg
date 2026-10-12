@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='288.00pt' height='216.00pt' viewBox='0 0 288.00 216.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwyODguMDB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='288.00' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.00' y='0.00' width='288.00' height='216.00' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpOTUuMzd8MjgyLjUyfDM4LjEyfDE4NS4xMA=='>
+    <rect x='95.37' y='38.12' width='187.15' height='146.98' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOTUuMzd8MjgyLjUyfDM4LjEyfDE4NS4xMA==)'>
+<polyline points='131.17,185.10 131.17,38.12 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='185.74,185.10 185.74,38.12 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='240.31,185.10 240.31,38.12 ' style='stroke-width: 0.53; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='95.37,111.61 282.52,111.61 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='103.88,185.10 103.88,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='158.45,185.10 158.45,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='213.02,185.10 213.02,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='267.59,185.10 267.59,38.12 ' style='stroke-width: 1.07; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='103.88' y='56.50' width='170.13' height='110.23' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+</g>
+<g clip-path='url(#cpMC4wMHwyODguMDB8MC4wMHwyMTYuMDA=)'>
+<text x='90.44' y='114.64' text-anchor='end' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='72.36px' lengthAdjust='spacingAndGlyphs'>A 10: CJ Diversion</text>
+<text x='103.88' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='9.78px' lengthAdjust='spacingAndGlyphs'>$0</text>
+<text x='158.45' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='25.44px' lengthAdjust='spacingAndGlyphs'>$400K</text>
+<text x='213.02' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='25.44px' lengthAdjust='spacingAndGlyphs'>$800K</text>
+<text x='267.59' y='196.09' text-anchor='middle' style='font-size: 8.80px;fill: #4D4D4D; font-family: "Arimo";' textLength='24.44px' lengthAdjust='spacingAndGlyphs'>$1.2M</text>
+<text x='188.95' y='208.23' text-anchor='middle' style='font-size: 11.00px; font-family: "Arimo";' textLength='60.56px' lengthAdjust='spacingAndGlyphs'>Spent ($US)</text>
+<text transform='translate(13.05,111.61) rotate(-90)' text-anchor='middle' style='font-size: 11.00px; font-family: "Arimo";' textLength='41.00px' lengthAdjust='spacingAndGlyphs'>Strategy</text>
+<text x='95.37' y='30.36' style='font-size: 11.00px; font-family: "Arimo";' textLength='86.88px' lengthAdjust='spacingAndGlyphs'>Detail by Strategy</text>
+<text x='95.37' y='14.56' style='font-size: 13.20px; font-family: "Arimo";' textLength='189.77px' lengthAdjust='spacingAndGlyphs'>City of Winston-Salem Spending</text>
+</g>
+</g>
+</svg>

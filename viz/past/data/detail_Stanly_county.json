@@ -1,0 +1,38 @@
+[
+  {
+    "govt_name": "Stanly",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$743"
+  },
+  {
+    "govt_name": "Stanly",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$52,576"
+  },
+  {
+    "govt_name": "Stanly",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$393,259"
+  },
+  {
+    "govt_name": "Stanly",
+    "govt_type": "county",
+    "slug": "A 04",
+    "spent": "$176,599"
+  },
+  {
+    "govt_name": "Stanly",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$337,755"
+  },
+  {
+    "govt_name": "Stanly",
+    "govt_type": "county",
+    "slug": "A 12",
+    "spent": "$144,427"
+  }
+]

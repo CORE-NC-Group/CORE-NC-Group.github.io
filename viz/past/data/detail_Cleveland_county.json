@@ -1,0 +1,32 @@
+[
+  {
+    "govt_name": "Cleveland",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$81,823"
+  },
+  {
+    "govt_name": "Cleveland",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$16,356"
+  },
+  {
+    "govt_name": "Cleveland",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$121,147"
+  },
+  {
+    "govt_name": "Cleveland",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$1,237"
+  },
+  {
+    "govt_name": "Cleveland",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$145,990"
+  }
+]

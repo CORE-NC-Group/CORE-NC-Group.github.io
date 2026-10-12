@@ -1,0 +1,44 @@
+[
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$135,863"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$50,000"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$177,849"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "slug": "A 04",
+    "spent": "$45,000"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$77,151"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$28,508"
+  },
+  {
+    "govt_name": "McDowell",
+    "govt_type": "county",
+    "slug": "A 08",
+    "spent": "$39,350"
+  }
+]

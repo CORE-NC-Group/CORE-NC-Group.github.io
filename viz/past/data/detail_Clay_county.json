@@ -1,0 +1,26 @@
+[
+  {
+    "govt_name": "Clay",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$1,675"
+  },
+  {
+    "govt_name": "Clay",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$25,000"
+  },
+  {
+    "govt_name": "Clay",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$35,566"
+  },
+  {
+    "govt_name": "Clay",
+    "govt_type": "county",
+    "slug": "A 12",
+    "spent": "$25,000"
+  }
+]

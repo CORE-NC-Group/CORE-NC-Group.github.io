@@ -1,0 +1,44 @@
+[
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "slug": "A 01",
+    "spent": "$154,559"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "slug": "A 02",
+    "spent": "$20,000"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "slug": "A 03",
+    "spent": "$300,047"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "slug": "A 05",
+    "spent": "$13,469"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "slug": "A 06",
+    "spent": "$56,075"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "slug": "A 07",
+    "spent": "$66,150"
+  },
+  {
+    "govt_name": "Richmond",
+    "govt_type": "county",
+    "slug": "A 11",
+    "spent": "$39,031"
+  }
+]

@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "Metropolis";
+  src: url("Metropolis-Regular.woff2") format("woff2");
+}
+
+:root {
+  --err-bg: #f0b0b0;
+  --alt-bg: #e0e0e0;
+
+  --border: #808080;
+}
+
+body {
+  font-family: Metropolis, Verdana, sans-serif;
+  padding: 0 1rem;
+}
+
+div#errors {
+  position: fixed;
+  background-color: var(--err-bg);
+  border: 1ex solid var(--border);
+  padding: 1rem;
+  width: 50%;
+  max-width: 60ex; min-width: 48ex;
+  right: 1rem;
+  bottom: 1rem;
+}
+
+div#the-map {
+  position: relative;
+  text-align: center;
+}
+
+div#the-map div.overlay {
+  position: absolute;
+  padding: 1rem;
+  border: 1ex solid var(--border);
+  background-color: var(--alt-bg);
+  text-align: center;
+}
+div#the-map div.ll { left: 1rem; bottom: 1rem; }
+div#the-map div.lr { right: 1rem; bottom: 1rem; }
+div#the-map div.ul { left: 1rem; top: 1rem; }
+div#the-map div.ur { right: 1rem; top: 1rem; }
+
+div#the-map svog-img { margin-left: auto; margin-right: auto; }
+
+div#control-row {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+div#controls {
+  display: inline-flex;
+  gap: 1rem;
+}
+div#control-buttons {
+  display: inline-flex;
+  flex-direction: column;
+  justify-items: stretch;
+  gap: 1rem;
+}
+div#control-dropdowns { display: inline-block; }
+div#controls button.selected,
+div#controls select.selected {
+  background: radial-gradient(#e0e0e0, #808080);
+}
+
+aside#details { display: inline-block; }
+aside#details >*:first-child { margin-top: 0; }
+
+table#details-table tr td:nth-child(3) {
+  text-align: right;
+  font-family: monospace;
+}
+
+span.amt {
+  font-family: monospace;
+  font-weight: bold;
+}

@@ -2,6 +2,10 @@
   font-family: "Metropolis";
   src: url("Metropolis-Regular.woff2") format("woff2");
 }
+@font-face {
+  font-family: "Liberation Sans Narrow";
+  src: url("liberation_sans_narrow.woff2") format("woff2");
+}
 
 :root {
   --err-bg: #f0b0b0;
@@ -11,7 +15,7 @@
 }
 
 body {
-  font-family: Metropolis, Verdana, sans-serif;
+  font-family: "Liberation Sans Narrow", Verdana, sans-serif;
   padding: 0 1rem;
 }
 
@@ -26,6 +30,14 @@ div#errors {
   bottom: 1rem;
 }
 
+div#app > div {
+  max-width: 96ex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3#map-title { text-align: center; }
+
 div#the-map {
   position: relative;
   text-align: center;
@@ -33,10 +45,16 @@ div#the-map {
 
 div#the-map div.overlay {
   position: absolute;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
   padding: 1rem;
   border: 1ex solid var(--border);
-  background-color: var(--alt-bg);
+  background-color: rgba(224, 224, 224, 0.8);
   text-align: center;
+  border-radius: 1ex;
+  height: 5rem;
+  width: 12rem;
 }
 div#the-map div.ll { left: 1rem; bottom: 1rem; }
 div#the-map div.lr { right: 1rem; bottom: 1rem; }
@@ -49,6 +67,7 @@ div#control-row {
   display: flex;
   gap: 1rem;
   justify-content: space-between;
+  min-height: 320px;
 }
 div#controls {
   display: inline-flex;
@@ -60,6 +79,12 @@ div#control-buttons {
   justify-items: stretch;
   gap: 1rem;
 }
+div#controls input,
+div#controls button,
+div#controls select,
+div#controls option {
+  white-space: pre;
+}
 div#control-dropdowns { display: inline-block; }
 div#controls button.selected,
 div#controls select.selected {
@@ -67,8 +92,24 @@ div#controls select.selected {
 }
 
 aside#details { display: inline-block; }
-aside#details >*:first-child { margin-top: 0; }
+aside#details >*:first-child { margin-top: 0; margin-bottom: 1rem; }
 
+div#detail-control {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto;
+  justify-items: end;
+}
+
+table { border-collapse: collapse; }
+table#details-table { border: 1px dotted var(--border); }
+table#details-table > caption {
+  background-color: var(--alt-bg);
+  padding: 1ex;
+  border: 1px dotted var(--border);
+}
+table#details-table tr:nth-child(even) { background-color: var(--alt-bg); }
+table#details-table td { padding: 0.5ex 1ex; }
 table#details-table tr td:nth-child(3) {
   text-align: right;
   font-family: monospace;

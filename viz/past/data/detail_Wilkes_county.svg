@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='360.00pt' height='216.00pt' viewBox='0 0 360.00 216.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    @font-face {
+      font-family: "Liberation Sans Narrow";
+      src: local("Liberation Sans Narrow"),
+           url("https://core-nc-group.github.io/viz/past/liberation_sans_narrow.woff2") format("woff2"),
+           url("") format("woff"),
+           url("") format("opentype"),
+           url("") format("truetype");
+    }
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='360.00' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.00' y='-0.000000000000057' width='360.00' height='216.00' style='stroke-width: 1.16; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMTE0Ljc1fDM1NC4wMnw0MS41N3wxODIuMzI='>
+    <rect x='114.75' y='41.57' width='239.27' height='140.75' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTE0Ljc1fDM1NC4wMnw0MS41N3wxODIuMzI=)'>
+<polyline points='153.15,182.32 153.15,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='208.19,182.32 208.19,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='263.24,182.32 263.24,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='318.28,182.32 318.28,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,175.40 354.02,175.40 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,163.86 354.02,163.86 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,152.33 354.02,152.33 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,140.79 354.02,140.79 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,129.25 354.02,129.25 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,117.71 354.02,117.71 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,106.18 354.02,106.18 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,94.64 354.02,94.64 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,83.10 354.02,83.10 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,71.57 354.02,71.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,60.03 354.02,60.03 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='114.75,48.49 354.02,48.49 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='125.63,182.32 125.63,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='180.67,182.32 180.67,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='235.72,182.32 235.72,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='290.76,182.32 290.76,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='345.80,182.32 345.80,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='125.63' y='43.30' width='124.28' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='125.63' y='54.84' width='217.52' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='125.63' y='66.37' width='28.92' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='125.63' y='77.91' width='6.99' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='125.63' y='89.45' width='81.78' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='125.63' y='100.99' width='85.21' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='125.63' y='112.52' width='5.60' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='125.63' y='124.06' width='2.60' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='125.63' y='135.60' width='6.67' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='125.63' y='147.13' width='6.65' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='125.63' y='158.67' width='33.83' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='125.63' y='170.21' width='0.064' height='10.38' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+</g>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA=)'>
+<text x='109.37' y='178.70' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='85.70px' lengthAdjust='spacingAndGlyphs'>B H: Prevent OD Deaths</text>
+<text x='109.37' y='167.16' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='72.17px' lengthAdjust='spacingAndGlyphs'>B G: Prevent Misuse</text>
+<text x='109.37' y='155.62' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='80.48px' lengthAdjust='spacingAndGlyphs'>B E: Pregnant/Families</text>
+<text x='109.37' y='144.09' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='89.66px' lengthAdjust='spacingAndGlyphs'>B D: CJ Involved Persons</text>
+<text x='109.37' y='132.55' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='54.23px' lengthAdjust='spacingAndGlyphs'>B A: Treat OUD</text>
+<text x='109.37' y='121.01' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='47.67px' lengthAdjust='spacingAndGlyphs'>A 12: Reentry</text>
+<text x='109.37' y='109.48' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='77.73px' lengthAdjust='spacingAndGlyphs'>A 11: Treatment - Jails</text>
+<text x='109.37' y='97.94' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='53.36px' lengthAdjust='spacingAndGlyphs'>A 07: Naloxone</text>
+<text x='109.37' y='86.40' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='63.84px' lengthAdjust='spacingAndGlyphs'>A 05: Employment</text>
+<text x='109.37' y='74.86' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='48.98px' lengthAdjust='spacingAndGlyphs'>A 04: Housing</text>
+<text x='109.37' y='63.33' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='53.36px' lengthAdjust='spacingAndGlyphs'>A 03: Recovery</text>
+<text x='109.37' y='51.79' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='55.56px' lengthAdjust='spacingAndGlyphs'>A 02: Treatment</text>
+<text x='125.63' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='8.75px' lengthAdjust='spacingAndGlyphs'>$0</text>
+<text x='180.67' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$200K</text>
+<text x='235.72' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$400K</text>
+<text x='290.76' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$600K</text>
+<text x='345.80' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$800K</text>
+<text x='234.39' y='207.53' text-anchor='middle' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='54.14px' lengthAdjust='spacingAndGlyphs'>Spent ($US)</text>
+<text transform='translate(14.24,111.95) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='36.64px' lengthAdjust='spacingAndGlyphs'>Strategy</text>
+<text x='114.75' y='33.10' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='77.66px' lengthAdjust='spacingAndGlyphs'>Detail by Strategy</text>
+<text x='114.75' y='15.88' style='font-size: 14.40px; font-family: "Liberation Sans Narrow";' textLength='128.59px' lengthAdjust='spacingAndGlyphs'>Wilkes County Spending</text>
+</g>
+</g>
+</svg>

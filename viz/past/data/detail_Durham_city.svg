@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='360.00pt' height='216.00pt' viewBox='0 0 360.00 216.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    @font-face {
+      font-family: "Liberation Sans Narrow";
+      src: local("Liberation Sans Narrow"),
+           url("https://core-nc-group.github.io/viz/past/liberation_sans_narrow.woff2") format("woff2"),
+           url("") format("woff"),
+           url("") format("opentype"),
+           url("") format("truetype");
+    }
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='360.00' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.00' y='-0.000000000000057' width='360.00' height='216.00' style='stroke-width: 1.16; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpODAuNjZ8MzU0LjAyfDQxLjU3fDE4Mi4zMg=='>
+    <rect x='80.66' y='41.57' width='273.36' height='140.75' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpODAuNjZ8MzU0LjAyfDQxLjU3fDE4Mi4zMg==)'>
+<polyline points='116.78,182.32 116.78,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='164.18,182.32 164.18,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='211.58,182.32 211.58,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='258.98,182.32 258.98,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='306.37,182.32 306.37,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='353.77,182.32 353.77,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='80.66,143.94 354.02,143.94 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='80.66,79.96 354.02,79.96 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='93.08,182.32 93.08,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='140.48,182.32 140.48,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='187.88,182.32 187.88,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='235.28,182.32 235.28,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='282.68,182.32 282.68,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='330.07,182.32 330.07,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='93.08' y='51.17' width='248.51' height='57.58' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='93.08' y='115.14' width='76.62' height='57.58' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+</g>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA=)'>
+<text x='75.28' y='147.23' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='53.36px' lengthAdjust='spacingAndGlyphs'>A 07: Naloxone</text>
+<text x='75.28' y='83.25' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='55.56px' lengthAdjust='spacingAndGlyphs'>A 02: Treatment</text>
+<text x='93.08' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='8.75px' lengthAdjust='spacingAndGlyphs'>$0</text>
+<text x='140.48' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$100K</text>
+<text x='187.88' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$200K</text>
+<text x='235.28' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$300K</text>
+<text x='282.68' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$400K</text>
+<text x='330.07' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$500K</text>
+<text x='217.34' y='207.53' text-anchor='middle' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='54.14px' lengthAdjust='spacingAndGlyphs'>Spent ($US)</text>
+<text transform='translate(14.24,111.95) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='36.64px' lengthAdjust='spacingAndGlyphs'>Strategy</text>
+<text x='80.66' y='33.10' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='77.66px' lengthAdjust='spacingAndGlyphs'>Detail by Strategy</text>
+<text x='80.66' y='15.88' style='font-size: 14.40px; font-family: "Liberation Sans Narrow";' textLength='131.84px' lengthAdjust='spacingAndGlyphs'>City of Durham Spending</text>
+</g>
+</g>
+</svg>

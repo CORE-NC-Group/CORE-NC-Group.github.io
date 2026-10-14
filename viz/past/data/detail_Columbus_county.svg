@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='360.00pt' height='216.00pt' viewBox='0 0 360.00 216.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    @font-face {
+      font-family: "Liberation Sans Narrow";
+      src: local("Liberation Sans Narrow"),
+           url("https://core-nc-group.github.io/viz/past/liberation_sans_narrow.woff2") format("woff2"),
+           url("") format("woff"),
+           url("") format("opentype"),
+           url("") format("truetype");
+    }
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='360.00' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.00' y='-0.000000000000057' width='360.00' height='216.00' style='stroke-width: 1.16; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMTE3LjM5fDM1NC4wMnw0MS41N3wxODIuMzI='>
+    <rect x='117.39' y='41.57' width='236.63' height='140.75' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMTE3LjM5fDM1NC4wMnw0MS41N3wxODIuMzI=)'>
+<polyline points='157.92,182.32 157.92,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='217.47,182.32 217.47,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='277.01,182.32 277.01,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='336.56,182.32 336.56,41.57 ' style='stroke-width: 0.58; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,174.04 354.02,174.04 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,160.24 354.02,160.24 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,146.44 354.02,146.44 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,132.64 354.02,132.64 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,118.85 354.02,118.85 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,105.05 354.02,105.05 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,91.25 354.02,91.25 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,77.45 354.02,77.45 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,63.65 354.02,63.65 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='117.39,49.85 354.02,49.85 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='128.15,182.32 128.15,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='187.69,182.32 187.69,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='247.24,182.32 247.24,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='306.78,182.32 306.78,41.57 ' style='stroke-width: 1.16; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='128.15' y='43.64' width='157.17' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #346076;' />
+<rect x='128.15' y='57.44' width='50.18' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='71.24' width='170.25' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='85.04' width='215.12' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='98.84' width='81.57' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='112.64' width='17.24' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='126.44' width='39.74' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='140.23' width='80.82' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='154.03' width='70.05' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+<rect x='128.15' y='167.83' width='152.70' height='12.42' style='stroke-width: 1.16; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #914131;' />
+</g>
+<g clip-path='url(#cpMC4wMHwzNjAuMDB8MC4wMHwyMTYuMDA=)'>
+<text x='112.01' y='177.34' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='87.50px' lengthAdjust='spacingAndGlyphs'>B J: Leadership/Planning</text>
+<text x='112.01' y='163.54' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='85.70px' lengthAdjust='spacingAndGlyphs'>B H: Prevent OD Deaths</text>
+<text x='112.01' y='149.74' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='72.17px' lengthAdjust='spacingAndGlyphs'>B G: Prevent Misuse</text>
+<text x='112.01' y='135.94' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='92.30px' lengthAdjust='spacingAndGlyphs'>B F: Prescribe &amp; Dispense</text>
+<text x='112.01' y='122.14' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='80.48px' lengthAdjust='spacingAndGlyphs'>B E: Pregnant/Families</text>
+<text x='112.01' y='108.34' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='89.66px' lengthAdjust='spacingAndGlyphs'>B D: CJ Involved Persons</text>
+<text x='112.01' y='94.54' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='75.19px' lengthAdjust='spacingAndGlyphs'>B C: Connect w/ Help</text>
+<text x='112.01' y='80.75' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='46.81px' lengthAdjust='spacingAndGlyphs'>B B: Support </text>
+<text x='112.01' y='66.95' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='54.23px' lengthAdjust='spacingAndGlyphs'>B A: Treat OUD</text>
+<text x='112.01' y='53.15' text-anchor='end' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='50.75px' lengthAdjust='spacingAndGlyphs'>A 01: Planning</text>
+<text x='128.15' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='8.75px' lengthAdjust='spacingAndGlyphs'>$0</text>
+<text x='187.69' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='18.38px' lengthAdjust='spacingAndGlyphs'>$50K</text>
+<text x='247.24' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$100K</text>
+<text x='306.78' y='194.30' text-anchor='middle' style='font-size: 9.60px;fill: #4D4D4D; font-family: "Liberation Sans Narrow";' textLength='22.75px' lengthAdjust='spacingAndGlyphs'>$150K</text>
+<text x='235.71' y='207.53' text-anchor='middle' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='54.14px' lengthAdjust='spacingAndGlyphs'>Spent ($US)</text>
+<text transform='translate(14.24,111.95) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='36.64px' lengthAdjust='spacingAndGlyphs'>Strategy</text>
+<text x='117.39' y='33.10' style='font-size: 12.00px; font-family: "Liberation Sans Narrow";' textLength='77.66px' lengthAdjust='spacingAndGlyphs'>Detail by Strategy</text>
+<text x='117.39' y='15.88' style='font-size: 14.40px; font-family: "Liberation Sans Narrow";' textLength='146.95px' lengthAdjust='spacingAndGlyphs'>Columbus County Spending</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=yes"
+    >
+    <title>plotly-r: Past Spending</title>
+    <style>
+div#outer-container {
+  max-width: 800px;
+  text-align: center;
+  margin: 1rem auto;
+}
+header, footer { background-color: #8dabb2; }
+    </style>
+    <script>
+function set_height(thing) {
+  let body_style = window.getComputedStyle(thing.contentDocument.body);
+  thing.style.height = body_style.height;
+}
+function size_objects() {
+  for(const obj of document.getElementsByTagName("object")) {
+    set_height(obj);
+  }
+}
+window.onload = size_objects;
+    </script>
+  </head>
+  <body>
+    <div id="outer-container">
+      <header><h1>CORE-NC Header Material goes Here</h1></header>
+      <object id="embed" type="text/html" data="data/plotlyxtalk.html" width="800">
+      </object>
+      <footer><h2>CORE-NC Footer Material goes Here</h2></footer>
+    </div>
+  </body>
+</html>
